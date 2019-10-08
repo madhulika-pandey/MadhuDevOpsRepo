@@ -61,3 +61,4 @@ C:\Users\madhulika.a.pandey\Source\Repos\MadhuDevOpsRepo\madhuApp1\obj\Debug\net
 C:\Users\madhulika.a.pandey\Source\Repos\MadhuDevOpsRepo\madhuApp1\obj\Debug\netcoreapp2.1\madhuApp1.dll
 C:\Users\madhulika.a.pandey\Source\Repos\MadhuDevOpsRepo\madhuApp1\obj\Debug\netcoreapp2.1\madhuApp1.pdb
 C:\Users\madhulika.a.pandey\Source\Repos\MadhuDevOpsRepo\madhuApp1\obj\Debug\netcoreapp2.1\madhuApp1.csproj.CopyComplete
+C:\Users\madhulika.a.pandey\Source\Repos\MadhuDevOpsRepo\madhuApp1\obj\Debug\netcoreapp2.1\madhuApp1.csprojAssemblyReference.cache
